@@ -19,8 +19,8 @@ User can add new book in the library and it will update the book store.
 
 ### Sample Output
 
-![add data](/screenshots/img01.png);
+![add data](./screenshots/img01.png)
 
 <br>
 
-![exit](/screenshots/img02.png);
+![exit](./screenshots/img02.png)
